@@ -1,0 +1,7 @@
+{
+  "name": "edge-stream-gateway",
+  "version": "1.1.1",
+  "description": "Serverless HTTP streaming gateway with bidirectional body forwarding",
+  "private": true,
+  "license": "MIT"
+}
